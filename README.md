@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Samee Rauf
+#  Hey, I’m Samee Rauf
 
 I’m a Software Engineer at **PMG** working on building scalable, data-driven systems that make marketing smarter.  
 I like solving real-world problems with clean APIs, automation, and a bit of curiosity.  
@@ -8,7 +8,7 @@ It logs plant growth, integrates with the Open-Meteo API, and maintains 99.9% up
 
 ---
 
-## 🧠 What I Work With
+##  What I Work With
 
 **Languages:** Python, Go, JavaScript, C++, Java  
 **Frameworks & Databases:** React, Node.js, Express, Firebase, PostgreSQL, SQLite  
@@ -17,7 +17,7 @@ It logs plant growth, integrates with the Open-Meteo API, and maintains 99.9% up
 
 ---
 
-## 🌿 What I’m Into Lately
+##  What I’m Into Lately
 
 - Go for backend performance  
 - Building observability into systems early (Datadog + OpenTelemetry)  
@@ -26,7 +26,7 @@ It logs plant growth, integrates with the Open-Meteo API, and maintains 99.9% up
 
 ---
 
-## 📫 Let’s Connect
+##  Let’s Connect
 
 - 🌐 [sameerauf.dev](https://sameerauf.dev)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/samee-rauf)  
