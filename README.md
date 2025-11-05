@@ -30,7 +30,6 @@ It logs plant growth, integrates with the Open-Meteo API, and maintains 99.9% up
 
 - 🌐 [sameerauf.dev](https://sameerauf.dev)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/samee-rauf)  
-- 💻 [GitHub](https://github.com/srauf24)  
 - ✉️ sameerauf1@gmail.com  
 
 ---
