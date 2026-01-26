@@ -24,7 +24,7 @@ Go, Python, TypeScript · PostgreSQL, Redis,  React, AWS, Docker, Datadog
 
 ### Background
 
-Started as pre-med and earned an Associate's in Biology. Switched to CS, graduated from Cal State Fullerton with a 4.0, and now I spend most of my time developing designing and implementing automation tools.
+Started as pre-med and earned an Associate's in Biology. Switched to CS, graduated from Cal State Fullerton with a 4.0, and now I spend most of my time designing and implementing automation tools.
 
 ---
 
