@@ -1,15 +1,20 @@
-# Hey, I'm Samee
+# Hi I'm Samee
 
-AI and Software Engineer at PMG Digital Media Agency in Dallas, Texas. I work mostly in Go and Python, building backend applications to automate marketing one day at a time. AWS certified, system-design obssessed. 
+AI and Software Engineer at PMG Digital Media Agency. I work mostly in Go and Python, building backend applications to automate marketing one day at a time. 
+
+AWS certified · System-Design Obssessed. 
 
 [Portfolio](https://sameerauf.dev) · [LinkedIn](https://linkedin.com/in/samee-rauf) · [Email](mailto:sameerauf1@gmail.com)
 
 ---
 
-### Currently Building
+### Currently Building **[Ark](https://github.com/srauf24/ark)** 
+An asset management platform running in production at [arkcore.dev](https://arkcore.dev). 
 
-**[Ark](https://github.com/srauf24/ark)** — An asset management platform running in production at [arkcore.dev](https://arkcore.dev). Go backend, React frontend, PostgreSQL, Redis for background jobs, New Relic for observability. Used Claude Code to accelerate development while maintaining clean architecture. Hosted on EC2 with automated EBS backups. Next up: adding RAG search using AWS Bedrock and S3 vector buckets. All under a $15/month budget.
----
+Backend: Go & Redis. Frontend: React & Typescript. Database: PostgreSQL. Deployment: AWS EC2 server with automated EBS backups. Used Claude Code to accelerate development while maintaining clean architecture.
+Next up: adding RAG search using AWS Bedrock and S3 vector buckets. All under a $15/month budget.
+
+
 
 ### Stack
 
