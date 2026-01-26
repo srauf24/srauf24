@@ -1,6 +1,6 @@
 # Hey, I'm Samee
 
-Software Engineer at PMG in Dallas. I work mostly in Go and Python, building backend systems and automation tools. AWS certified, mass-production-grade architecture obsessed.
+AI and Software Engineer at PMG Digital Media Agency in Dallas, Texas. I work mostly in Go and Python, building backend applications to automate marketing one day at a time. AWS certified, system-design obssessed. 
 
 [Portfolio](https://sameerauf.dev) · [LinkedIn](https://linkedin.com/in/samee-rauf) · [Email](mailto:sameerauf1@gmail.com)
 
@@ -19,7 +19,7 @@ Go, Python, TypeScript · PostgreSQL, Redis,  React, AWS, Docker, Datadog
 
 ### Background
 
-Started as pre-med and earned an Associate's in Biology. Switched to CS, graduated from Cal State Fullerton with a 4.0, and now I spend most of my time developing tools understanding complex systems and developing tools to drive impact.
+Started as pre-med and earned an Associate's in Biology. Switched to CS, graduated from Cal State Fullerton with a 4.0, and now I spend most of my time developing designing and implementing automation tools.
 
 ---
 
